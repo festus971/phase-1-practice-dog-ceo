@@ -64,5 +64,5 @@ function selectBreedsStartingWith(letter) {
   }
   
   function updateColor(event) {
-    event.target.style.color = 'palevioletred';
+    event.target.style.color = 'red';
   }
